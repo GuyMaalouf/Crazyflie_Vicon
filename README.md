@@ -11,14 +11,20 @@ This repository contains three Python codes that are designed to control the Cra
 
 ## Requirements
 Crazyflie 2.0 drone
+
 Vicon Vision System
+
 Crazyradio
+
 Python 3.5
 
+cflib==0.1.22
 
-Vicon DataStream SDK
-Crazyflie Python Library
-Numpy Library
+numpy==1.24.2
+
+pyqtgraph==0.13.3
+
+PySDL2==0.9.15
 
 ## How to use
 1- Connect your PC to the same Wi-Fi network as the Vicon Vision System.
